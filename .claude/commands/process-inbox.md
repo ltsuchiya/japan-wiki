@@ -14,6 +14,7 @@ For each file in `inbox/`:
 3. **Determine the target folder** — pick one of: `content/cars/`, `content/real-estate/`, `content/taxes/`, `content/phones/`, `content/timeline/`. If the content spans multiple topics, split it into separate pages, one per folder. If the content doesn't clearly fit any existing folder, propose a new folder name (kebab-case, one word or short phrase), explain why none of the existing ones apply, and wait for approval before creating it.
 
 4. **Create one or more wiki pages** in the correct folder(s):
+   - **Always write as a general guide, not a personal one.** Raw notes often contain personal details (names, specific addresses, visa types, family composition, specific flights or clinics). Strip all of these and write the page as useful reference material for any American relocating to Japan. Do not use "you" in a way that assumes the reader's personal circumstances — present information as general facts, options, and considerations.
    - Filename: kebab-case, descriptive (e.g. `importing-a-us-car.md`, not `notes.md`)
    - Add the required frontmatter at the top:
      ```yaml
