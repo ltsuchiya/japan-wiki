@@ -1,16 +1,3 @@
 @use "./variables.scss" as *;
 
-// Collapse the right sidebar column when it has no components
-.sidebar.right:empty {
-  display: none;
-}
-
-@media #{$desktop} {
-  #quartz-root:has(.sidebar.right:empty) {
-    grid-template-columns: $sidePanelWidth auto;
-    grid-template-areas:
-      "grid-sidebar-left grid-header"
-      "grid-sidebar-left grid-center"
-      "grid-sidebar-left grid-footer";
-  }
-}
+// put your custom CSS here!
