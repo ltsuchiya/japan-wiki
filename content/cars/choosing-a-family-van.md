@@ -25,7 +25,7 @@ The single most important structural concept is the **5-number (5ナンバー) v
 | Model | Exterior L×W×H (mm) | Seats | Price (new, ¥) | Powertrain | WLTC fuel economy | Notes |
 |---|---|---|---|---|---|---|
 | **Toyota Sienta** | 4,260 × 1,695 × 1,695 | 5 / 6 / 7 | ¥2,146,100–3,397,900 | 1.5L gas or hybrid | ~15.8–28 km/L (hybrid) | Best-selling compact van; deep used supply |
-| **Honda Freed (3rd gen)** | AIR: 4,310 × 1,695 × 1,755 / CROSSTAR: 1,720 wide | 5 / 6 / 7 | Gas ¥2,508,000–3,087,700; e:HEV ¥2,857,800–3,437,500 | 1.5L gas or 2-motor e:HEV | ~15.6–17.0 km/L (e:HEV) | 2024–2025 Japan Car of the Year; taller cabin; captain's chairs on 6-seat trim |
+| **Honda Freed (3rd gen)** | AIR: 4,310 × 1,695 × 1,755 / CROSSTAR: 1,720 wide | 5 / 6 / 7 | Gas ¥2,508,000–3,087,700; e:HEV ¥2,857,800–3,437,500 | 1.5L gas or 2-motor e:HEV | ~25.4–25.5 km/L (e:HEV); ~16.4 km/L (gas) | 2024–2025 Japan Car of the Year; taller cabin; captain's chairs on 6-seat trim |
 | **Toyota Noah / Voxy** | 4,695 × 1,730 × 1,895 (4WD: 1,925 H) | 7 / 8 | Noah HV: ¥3,182,300–4,149,200; Voxy HV: ¥3,595,900–4,219,600 | Hybrid-only from April 2026 | — | Full 3-number; 35mm wider and ~200mm taller than compact class |
 | **Honda StepWGN** | 4,800 × 1,750 × 1,840 | 7 / 8 | ~¥3.0M–4.3M | e:HEV or gas | — | Longest midsize; best cargo via under-floor 3rd-row stowage; no hybrid 4WD |
 | **Nissan Serena e-POWER** | 4,690–4,765 × 1,695–1,715 × 1,870–1,885 | 7 / 8 | ¥2,780,000–3,930,000 | e-POWER (series hybrid) | — | ProPilot highway assist; smooth low-speed character |
@@ -57,7 +57,7 @@ The real decision for most families in the compact class:
 | Captain's chairs option | Available on some grades | Available on 6-seat trim (AIR EX grade) |
 | Product freshness | 2022 platform (minor 2025/2026 running changes) | 2024 full redesign — 2024–2025 Japan Car of the Year |
 | Used supply | Deepest of any compact van nameplate | Good; growing with 3rd-gen volume |
-| Fuel economy | Slightly better (up to ~28 km/L hybrid) | ~15.6–17.0 km/L (e:HEV) |
+| Fuel economy | ~28 km/L (hybrid); ~15.8 km/L (gas) | ~25.4–25.5 km/L (e:HEV); ~16.4 km/L (gas) |
 
 **When Sienta is the better pick:** budget is the binding constraint; parking footprint is tight; the third row will mostly sit folded; or you want maximum used-market liquidity.
 
